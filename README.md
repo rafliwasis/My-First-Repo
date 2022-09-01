@@ -4,4 +4,4 @@ NPM : 2106751442
 
 Kelas : E
 
-Hobi : Ngoding
+Hobi : Turuu
